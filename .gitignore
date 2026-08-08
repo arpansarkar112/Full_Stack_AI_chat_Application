@@ -20,7 +20,6 @@ venv/
 backend/venv/
 
 # Editor directories and files
-.vscode/*
 !.vscode/extensions.json
 .idea
 .DS_Store
@@ -29,3 +28,4 @@ backend/venv/
 *.njsproj
 *.sln
 *.sw?
+config.bat
